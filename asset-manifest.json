@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sweedalgharshi/name-it/static/css/main.46b837dd.css",
+    "main.js": "/sweedalgharshi/name-it/static/js/main.c0585946.js",
+    "index.html": "/sweedalgharshi/name-it/index.html",
+    "main.46b837dd.css.map": "/sweedalgharshi/name-it/static/css/main.46b837dd.css.map",
+    "main.c0585946.js.map": "/sweedalgharshi/name-it/static/js/main.c0585946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b837dd.css",
+    "static/js/main.c0585946.js"
+  ]
+}
